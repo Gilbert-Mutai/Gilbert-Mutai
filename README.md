@@ -1,7 +1,4 @@
-# 👋 Hi there, I'm Gilbert Mutai — Cloud Engineer | DevOps Enthusiast 🚀
-
-![Profile views](https://komarev.com/ghpvc/?username=GilbertMutai&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/GilbertMutai?label=Follow&style=social)
+# Hi there 👋, I'm Gilbert Mutai — Cloud Engineer | DevOps Enthusiast 🚀
 
 ---
 
@@ -14,20 +11,11 @@ I'm currently expanding my expertise in:
 - 🔁 **CI/CD Pipelines & GitOps**
 - ⚙️ **Infrastructure as Code (Terraform, Ansible)**
 - 🐳 **Containerization & Orchestration (Docker, Kubernetes)**
-
----
-
-🎯 **Current Goals**
-- 🎓 Complete: AWS Certified Solutions Architect – Associate  
-- 📘 Master: Terraform, Ansible, and Kubernetes  
-- 💡 Build: A large-scale AWS reference architecture with CI/CD, cost-optimization & monitoring
-
+  
 ---
 
 🏆 **Certifications**
 - ✅ AWS Certified Cloud Practitioner
-- ✅ Google Cloud Digital Leader
-- ✅ Develhope Fullstack Development
 - 🔜 AWS Solutions Architect Associate *(in progress)*
 
 ---
@@ -44,19 +32,10 @@ I'm currently expanding my expertise in:
 
 ---
 
-📈 **GitHub Stats**
-
-![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilbertMutai&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertMutai&layout=compact&theme=tokyonight)
-
----
-
 📫 **Let's Connect**
 
 - 🌐 Website: [Coming Soon]
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 💼 LinkedIn: [linkedin.com/in/gilbertmutai](https://linkedin.com/in/gilbertmutai)
-- 🧠 Dev.to: [@yourhandle](https://dev.to/yourhandle)
 
 ---
 
